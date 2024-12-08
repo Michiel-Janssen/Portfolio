@@ -1,0 +1,170 @@
+{
+    "mats_Arms1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Body_Face_Arms_geo_LOD0|Body_Face_Arms_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Body_Face_Arms1_BaseColor.png",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Body_Face_Arms1_Normal.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Body_Face_Arms1_MaskMap.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_Collar1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Collar_geo_LOD0|Collar_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Collar1_MaskMap.png",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Collar1_Normal.png",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Collar1_BaseColor.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_Ears1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Ears_geo_LOD0|Ears_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Ears1_MaskMap.png",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Ears1_Normal.png",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Ears1_BaseColor.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_Gloves1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Gloves_geo_LOD0|Gloves_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Gloves1_Normal.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Gloves1_MaskMap.png",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Gloves1_BaseColor.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_Hood1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Hood_geo_LOD0|Hood_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Hood1_BaseColor.png",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Hood1_Normal.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Hood1_MaskMap.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_LeftEye1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Left_Eye_geo_LOD0|Left_Eye_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Left_Eye1_BaseColor.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Left_Eye1_MaskMap.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_MiddleBody1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Middle_Body_geo_LOD0|Middle_Body_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Middle_Body1_BaseColor.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Middle_Body1_MaskMap.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_Pants1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Pants_Boots_geo_LOD0|Pants_Boots_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "normal": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Pants_Body_Normal.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Pants_Body_MaskMap.png",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Pants_Body_BaseColor.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    },
+    "mats_RightEye1_1001_tex_v001_01": {
+        "objects": [
+            "|char_MichielJanssen_A|Geo_grp|LOD_Group_1|LOD_0|char_MichielJanssen_A_static_LOD_0|Kilian|Right_Eye_geo_LOD0|Right_Eye_geo_LOD0Shape"
+        ],
+        "mayafile": "char_MichielJanssen_A_tex_v001",
+        "basecolor": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Right_Eye1_BaseColor.png",
+        "maskmap": "/6_vfx/601_library/char/MichielJanssen/A/workspaces/tex/Kilian_Right_Eye1_MaskMap.png",
+        "surface_type": "opaque",
+        "tiling": [
+            1.0,
+            1.0
+        ],
+        "offset": [
+            0.0,
+            0.0
+        ],
+        "rotate": 0.0
+    }
+}

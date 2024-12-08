@@ -143,6 +143,7 @@ public class InteractionManager : MonoBehaviour
         {
             if (interactable.IsItemVisible() && interactable != null)
             {
+                Debug.Log($"These are the interactables: {interactable.GetTransform().name}");
                 float distance = Vector3.Distance(interactable.GetTransform().position, transform.position);
                 if (distance <= ShowItemInteractIconDistance && distance < closestDistance)
                 {
@@ -163,6 +164,8 @@ public class InteractionManager : MonoBehaviour
             {
                 if (interactable.IsItemVisible())
                 {
+/*                    Debug.Log($"These are the interactables: {interactable.GetTransform().name}");
+                    Debug.Log($"Closest: {closestInteractable.GetTransform().name}");*/
                     if (interactable == closestInteractable)
                     {
                         interactable.HideIdentifierUI();

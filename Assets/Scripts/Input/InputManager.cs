@@ -8,7 +8,7 @@ public class InputManager : MonoBehaviour
     [SerializeField] private bool cursorLocked = true;
 
     private InputControls playerControls;
-    private InteractionManager interactionManager;
+    private InteractionManagerRay interactionManager;
     private PlayerController playerController;
     private InputAction movement;
     private InputAction look;
@@ -20,7 +20,7 @@ public class InputManager : MonoBehaviour
 
     private void Awake()
     {
-        interactionManager = GetComponent<InteractionManager>();
+        interactionManager = GetComponent<InteractionManagerRay>();
         playerControls = new InputControls();
         playerController = GetComponent<PlayerController>();
     }

@@ -88,17 +88,20 @@ public class GameManager : MonoBehaviour
 
     public void HidePaperTextUI()
     {
-        gamePanels.PaperReadPanel.SetActive(false);
+        //TODO
+        //gamePanels.PaperReadPanel.SetActive(false);
     }
 
     public void ShowExamineObjectName(string objectName)
     {
+        //TODO
         gamePanels.ExaminePanel.SetActive(true);
         userInterface.ExamineText.text = objectName;
     }
 
     public void HideExamineObjectName()
     {
+        //TODO
         gamePanels.ExaminePanel.SetActive(false);
     }
 
@@ -118,7 +121,7 @@ public class GameManager : MonoBehaviour
         }
 
         playerController.CanMove(false);
-        cameraManager.CanMove(false);
+        CameraManager.Instance.CanMove(false);
     }
 
     public void UnFreezePlayerMovement()
@@ -129,6 +132,6 @@ public class GameManager : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
 
         playerController.CanMove(true);
-        cameraManager.CanMove(true);
+        CameraManager.Instance.CanMove(true);
     }
 }
